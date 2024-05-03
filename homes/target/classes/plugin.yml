@@ -1,0 +1,12 @@
+name: homes
+version: '1.0.0'
+main: br.com.sicro.homes.Main
+commands:
+  sethome:
+    description: "Salvar homes."
+  home:
+    description: "Ir para homes."
+  delhome:
+    description: "Remover homes."
+  homes:
+    description: "Mostra a lista de homes."
